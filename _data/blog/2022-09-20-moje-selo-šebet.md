@@ -9,7 +9,7 @@ metaDescription: >-
   делу Шебетске реке, десне притоке Кутинске реке...
 thumbnail: /assets/šebet-moj.jpg
 ---
-![](/img/šebet-moj.jpg)
+
 
 # О Шебету
 
