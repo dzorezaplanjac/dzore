@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /šebet na yutube
+path: /sebet-yutube
 date: 2022-10-19T09:03:39.921Z
 title: video snimci o selu Šebet
 metaDescription: video snimci o selu Šebet iz raznih izvora.
