@@ -1,9 +1,9 @@
 {
-  "title": "Nenad Đorić - lični sajt",
+  "title": "Djore Zaplanjac",
   "siteUrl": "https://nenadjoric.netlify.app/",
-  "description": "lični sajt",
+  "description": "ponešto o Zaplanju",
   "home": {
-    "title": "titl naslovna",
-    "description": "naslovna opis"
+    "title": "Kude je toj Zaplanje",
+    "description": "Zaplanje - razmišljanja"
   }
 }
