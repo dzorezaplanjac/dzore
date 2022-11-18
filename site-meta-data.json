@@ -1,9 +1,9 @@
 {
   "title": "Šebet",
   "siteUrl": "https://schebet.netlify.app",
-  "description": "Vesti iz Šebet najnovije i ostale",
+  "description": "(Vesti iz Šebet najnovije i ostale)",
   "home": {
     "title": "Koje ima novo po Šebet!",
-    "description": ""
+    "description": "![star ali odličan](/assets/telefon.png \"iz pouzdani izvor saznajemo\")"
   }
 }
