@@ -1,9 +1,9 @@
 {
   "title": "Šebet",
   "siteUrl": "https://schebet.netlify.app",
-  "description": "Ponešto o Šebetu, Zaplanju...",
+  "description": "Vesti iz Šebet najnovije i ostale",
   "home": {
     "title": "Koje ima novo po Šebet!",
-    "description": "Vesti iz Šebet najnovije i ostale"
+    "description": ""
   }
 }
