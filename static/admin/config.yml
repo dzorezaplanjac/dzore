@@ -1,7 +1,7 @@
 backend:
   name: github
   # change repo to your git repository url
-  repo:  /anavoli/shebet-chat
+  repo:   anavoli/shebet-chat 
 
 
 media_folder: static/assets
