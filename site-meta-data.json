@@ -1,9 +1,9 @@
 {
-  "title": "Šebet-chat",
-  "siteUrl": "https://schebet-chat.netlify.app",
-  "description": "ponešto o Zaplanju",
+  "title": "Šebet",
+  "siteUrl": "https://schebet.netlify.app",
+  "description": "Ponešto o Šebetu, Zaplanju...",
   "home": {
-    "title": "Kude je toj Zaplanje",
+    "title": "Kudee toj Zaplanje",
     "description": "Zaplanje - razmišljanja"
   }
 }
