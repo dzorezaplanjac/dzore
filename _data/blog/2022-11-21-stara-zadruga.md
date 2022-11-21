@@ -6,4 +6,6 @@ title: stara zadruga
 metaDescription: Još uvek odoleva vekovima, iz 20-og veka u sada 21 vek.
 thumbnail: /assets/stara-zadruga.webp
 ---
+![stara zadruga](/assets/stara-zadruga.webp "stara zadruga")
+
 Još uvek odoleva vekovima, iz 20-og veka u sada 21 vek.
