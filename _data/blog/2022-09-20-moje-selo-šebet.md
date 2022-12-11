@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /šebet
+path: /schebet
 date: 2022-12-11T17:33:40.481Z
 title: О Шебету
 metaDescription: Шебет је лоциран у Горњем Заплању. Налази се на западним
