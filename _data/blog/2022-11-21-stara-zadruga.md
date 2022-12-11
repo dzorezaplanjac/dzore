@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /stara zadruga
-date: 2022-11-21T12:40:16.980Z
+date: 2022-12-11T17:38:29.174Z
 title: stara zadruga
 metaDescription: Još uvek odoleva vekovima, iz 20-og veka u sada 21 vek.
 thumbnail: /assets/stara-zadruga.webp
