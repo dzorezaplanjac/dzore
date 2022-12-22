@@ -9,4 +9,8 @@ thumbnail: /assets/stara-zadruga.webp
 ---
 ![stara zadruga](/assets/stara-zadruga.webp "stara zadruga")
 
-Još uvek odoleva vekovima, iz 20-og veka u sada 21 vek.
+Još uvek odoleva vekovima, iz 20-og veka u sada 21 vek. 
+
+<script async defer crossorigin="anonymous" src="https://connect.facebook.net/sr_RS/sdk.js#xfbml=1&version=v15.0" nonce="kBVKQvGP"></script>
+
+<div class="fb-comments" data-href="https://shebet3.netlify.app" data-width="" data-numposts="5"></div>
