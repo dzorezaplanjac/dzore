@@ -6,4 +6,6 @@ title: Spomen česma borcima u II svetskom ratu
 metaDescription: Spomen česma borcima u II svetskom ratu
 thumbnail: /assets/спомен-чесма.webp
 ---
+![cesma](/assets/спомен-чесма.webp "cesma")
+
 # Spomen česma borcima u II svetskom ratu
