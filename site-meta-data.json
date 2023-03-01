@@ -1,9 +1,9 @@
 {
-  "title": "Šebet",
-  "siteUrl": "https://neschko-chat.netlify.app",
+  "title": "Džore zaplanjac",
+  "siteUrl": "https://dzore.netlify.app",
   "description": "ponešto o Zaplanju",
   "home": {
-    "title": "Kude je tija Šebet",
+    "title": "O Zaplanju",
     "description": "razno razmišljanje"
   }
 }
