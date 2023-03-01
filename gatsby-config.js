@@ -48,7 +48,7 @@ module.exports = {
         short_name: `Dž`,
         start_url: `/`,
         background_color: `#fff`,
-        theme_color: `#1d2aa1`,
+        theme_color: `#6e5014`,
         display: `standalone`,
         icon: "src/images/icon.png",
       },
