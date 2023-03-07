@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /etimologija imena sela Šebet
+path: /etimologijaimenaselasebet
 date: 2023-03-07T19:05:05.124Z
 title: O imenu sela Šebet
 metaDescription: etimologija imena
