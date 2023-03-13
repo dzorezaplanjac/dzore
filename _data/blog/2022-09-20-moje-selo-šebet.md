@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /blog
+path: /osebetu
 date: 2022-09-20T18:30:37.763Z
 title: О Шебету
 metaDescription: >-
