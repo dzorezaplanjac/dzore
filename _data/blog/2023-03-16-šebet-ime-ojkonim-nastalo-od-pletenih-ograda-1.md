@@ -12,9 +12,7 @@ thumbnail: /assets/hedge_sebes.jpg
 ---
 **Šebet - ime (ojkonim) nastalo od pletenih ograda**
 
-
-
-**Uprkos tome što je etimologija reči nesigurnajerna osnovu nje se ponekad dolazi do pogrešnih zaključaka pa ličinekomena gledanje u pasulj u puno slučaja njeni zaključci nađu svoju potvrdu u folkloru ili spomenicima iz prošlosti.**
+**Uprkos tome što je etimologija reči nesigurna jer na osnovu nje se ponekad dolazi do pogrešnih zaključaka pa liči nekome na gledanje u pasulj u puno slučaja njeni zaključci nađu svoju potvrdu u folkloru ili spomenicima iz prošlosti.**
 
 **Ako krenemo od Albanije pa sve do Baltika na severu nalazimo mnogobrojna mesta sa nazivima Sopot, Sopotnica ili sličnih naziva a isto važi i za Šebet. Sopot, najseverniji, je na obali Baltičkog mora i danas je čuveno poljsko letovalište sa prelepim plažama. O poreklu imena tog mesta se i poljski lingvisti slažu da je nastalo iz staroslovenskih jezika,od zvukova koji se čuju na izvorima rečica. Srpski lingvisti kažu da je koren reči nastao od glagola soptati( sopće – teško diše, disanje sa propratnim zvucima) što se slaže sa zvucima koji se čuju na jačim izvorima što bi se drugčije reklo da voda žubori (a u Zaplanju šobori).Obzirom da ima dosta rečica pod imenom Sopotnica koje u svom toku imaju vodopade čiji zvuk je drugačiji od soptanja ipak u celini gledano u pitanju je zvuk vodeono od čega Sopot – Sopotnica dobiše ime. Da voda ide iz njega a i zvuk (šmrkanje) narod je lepo primetio pa poistovetio nos sa sopotom:**
 
