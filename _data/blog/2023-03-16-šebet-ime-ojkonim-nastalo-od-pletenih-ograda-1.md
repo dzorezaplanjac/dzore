@@ -28,10 +28,10 @@ thumbnail: /assets/hedge_sebes.jpg
 
  **Ovo pomeranje Srba iz zemlje Pomeranije ka jugu beše čak do Portugalije pa Portugalcima ostade u rečniku sapo od žabe kao i Galima. Ti Srbi po istoričarima su u stvari bili Suebi ([Suevians](https://sr.wikipedia.org/sr-ec/%D0%A1%D0%B2%D0%B5%D0%B2%D0%B8)) ali Švabe ne znaju za reč žabe. Ostaje u igri i varijanta da su Srbi preko žabe u nekoj vezi sa Galima. U svakom slučaju beše puno šetanja po Evropi.  Kod Portugalaca je, da ne bude zabune, slično [sapo](https://pt.wikipedia.org/wiki/Sapo) ( žabe) sa [sebe](https://pt.wikipedia.org/wiki/Sebe) (žbunje za šišanje). Žabe i tarabe kod Srba nemaju baš nikakve veze ali u galiji portugalskoj imaju. Ako Portugalce posmatramo  iz šireg ugla, kao deo familije bliske latinskom jeziku, zavirimo u latinski jezik:**
 
-> **sē/pĭo**,-psi,-ptum,-īre, v. (saepio) – 1) ograđivati, ograditi, opasati;  s. *urbem muris*– opasujem grad zidinama
+> **sē/pĭo**,-psi,-ptum,-īre, v. (saepio) –  ograđivati, ograditi, opasati;  s. *urbem muris*– opasujem grad zidinama
 >
 > **sept/um**,-i, n. (sepio) – pregrada; ograda, tor; *quibus septis beluas continebimus*? – kakvim ogradama/torovima ćemo držati goveda da se ne raziđu?
 
 
 
-**Dakle SEP + ET (sufiks) . Sufiksi su dobar indikator odakle neka reč je došla u nečiji jezik. Sufiks et, na primer, je popularan kod Francuza (galskih petlova) za umanjivanje (deminutivi) pa bude od cigare cigareta ali ima još primena kod glagola pa i šire, na primer star - starleta...O tome bi, kad je u pitanju Šebet, da li ima sufiksa ili ne mogli stručnjaci da kažu poslednju reč, nastavljamo sa paralelama jer je lakše i zabavnije.**
+**Dakle SEP + ET (sufiks) . Sufiksi su dobar indikator odakle neka reč je došla u nečiji jezik. Sufiks et, na primer, je popularan kod Francuza (galskih petlova) za umanjivanje (deminutivi) pa bude od cigare cigareta ali ima još primena kod glagola pa i šire, na primer star - starleta..a nama, našem jeziku pogotovo jer imamo cvet, svet, zaplet, rasplet, pet, devet, deset . O tome bi, kad je u pitanju Šebet, da li ima sufiksa ili ne, ili bilo koji afiks, mogli stručnjaci da kažu poslednju reč, nastavljamo sa paralelama jer je lakše i zabavnije. Ovo latinsko sepet bi možda bilo šepet ali latini nisu imali slovo š pa ostaje stvar nedorečena. U stvari imaju glas š ali i pišu dva slova, troše mastilo bez veze. A tek Schvabe , užas jedan. Očigledno neki drugi svet pa ko im se privoli nadrlja ko Czech, tj Čeh. Slovaci su bolje prošli.**
