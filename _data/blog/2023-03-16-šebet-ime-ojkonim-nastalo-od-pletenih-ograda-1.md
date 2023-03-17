@@ -31,3 +31,7 @@ thumbnail: /assets/hedge_sebes.jpg
 > **sē/pĭo**,-psi,-ptum,-īre, v. (saepio) – 1) ograđivati, ograditi, opasati;  s. *urbem muris*– opasujem grad zidinama
 >
 > **sept/um**,-i, n. (sepio) – pregrada; ograda, tor; *quibus septis beluas continebimus*? – kakvim ogradama/torovima ćemo držati goveda da se ne raziđu?
+
+
+
+**Dakle SEP + ET (sufiks) . Sufiks et je popularan kod Francuza za umanjivanje (deminutivi) pa bude od cigare cigareta ali ima još primena kod glagola pa i šire, na primer star - starleta...O tome bi, kad je u pitanju Šebet, da li ima sufiksa ili ne mogli stručnjaci da kažu poslednju reč, nastavljamo sa paralelama jer je lakše i zabavnije.**
