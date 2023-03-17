@@ -34,4 +34,4 @@ thumbnail: /assets/hedge_sebes.jpg
 
 
 
-**Dakle SEP + ET (sufiks) .Sufiksi su dobar indikator odakle neka reč je došla u nečiji jezik. Sufiks et, na primer, je popularan kod Francuza (galskih petlova) za umanjivanje (deminutivi) pa bude od cigare cigareta ali ima još primena kod glagola pa i šire, na primer star - starleta...O tome bi, kad je u pitanju Šebet, da li ima sufiksa ili ne mogli stručnjaci da kažu poslednju reč, nastavljamo sa paralelama jer je lakše i zabavnije.**
+**Dakle SEP + ET (sufiks) . Sufiksi su dobar indikator odakle neka reč je došla u nečiji jezik. Sufiks et, na primer, je popularan kod Francuza (galskih petlova) za umanjivanje (deminutivi) pa bude od cigare cigareta ali ima još primena kod glagola pa i šire, na primer star - starleta...O tome bi, kad je u pitanju Šebet, da li ima sufiksa ili ne mogli stručnjaci da kažu poslednju reč, nastavljamo sa paralelama jer je lakše i zabavnije.**
