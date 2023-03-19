@@ -16,7 +16,11 @@ thumbnail: /assets/hedge_sebes.jpg
 
 ![plot](/assets/laid_hedge.png "ograde - plot...")
 
-**Ako krenemo od Albanije pa sve do Baltika na severu nalazimo mnogobrojna mesta sa nazivima Sopot, Sopotnica ili sličnih naziva a isto važi i za Šebet. Sopot, najseverniji, je na obali Baltičkog mora i danas je čuveno poljsko letovalište sa prelepim plažama. O poreklu imena tog mesta se i poljski lingvisti slažu da je nastalo iz staroslovenskih jezika, od zvukova koji se čuju na izvorima rečica. Srpski lingvisti kažu da je koren reči nastao od glagola soptati ( sopće – teško diše, disanje sa propratnim zvucima) što se slaže sa zvucima koji se čuju na jačim izvorima što bi se drugčije reklo da voda žubori (a u Zaplanju šobori). Obzirom da ima dosta rečica pod imenom Sopotnica koje u svom toku imaju vodopade čiji zvuk je drugačiji od soptanja ipak u celini gledano u pitanju je zvuk vode ono od čega Sopot – Sopotnica dobiše ime. Da voda ide iz njega a i zvuk (šmrkanje) narod je lepo primetio pa poistovetio nos sa sopotom:**
+**Ako krenemo od Albanije pa sve do Baltika na severu nalazimo mnogobrojna mesta sa nazivima Sopot, Sopotnica ili sličnih naziva a isto važi i za Šebet. Sopot, najseverniji, je na obali Baltičkog mora i danas je čuveno poljsko letovalište sa prelepim plažama. O poreklu imena tog mesta se i poljski lingvisti slažu da je nastalo iz staroslovenskih jezika, od zvukova koji se čuju na izvorima rečica. Srpski lingvisti kažu da je koren reči nastao od glagola soptati** 
+
+> **( sopće – teško diše, disanje sa propratnim zvucima)**
+
+ **što se slaže sa zvucima koji se čuju na jačim izvorima što bi se drugčije reklo da voda žubori (a u Zaplanju šobori). Obzirom da ima dosta rečica pod imenom Sopotnica koje u svom toku imaju vodopade čiji zvuk je drugačiji od soptanja ipak u celini gledano u pitanju je zvuk vode ono od čega Sopot – Sopotnica dobiše ime. Da voda ide iz njega a i zvuk (šmrkanje) narod je lepo primetio pa poistovetio nos sa sopotom:**
 
 > **Pod gorom poljana, pod poljanom gleđana (vrsta stene), pod gleđanom sopot, pod sopotom provala.**
 >
@@ -31,9 +35,9 @@ thumbnail: /assets/hedge_sebes.jpg
 > **sē/pĭo**,-psi,-ptum,-īre, v. (saepio) –  ograđivati, ograditi, opasati;  s. *urbem muris*– opasujem grad zidinama
 >
 > **sept/um**,-i, n. (sepio) – pregrada; ograda, tor; *quibus septis beluas continebimus*? – kakvim ogradama/torovima ćemo držati goveda da se ne raziđu?
+>
+> sapet - https://sr.wiktionary.org/sr-ec/sapeti
 
-
-
-**Dakle SEP + ET (sufiks) . Sufiksi su dobar indikator odakle neka reč je došla u nečiji jezik. Sufiks et, na primer, je popularan kod Francuza (galskih petlova) za umanjivanje (deminutivi) pa bude od cigare cigareta ali ima još primena kod glagola pa i šire, na primer star - starleta..a nama, našem jeziku pogotovo jer imamo cvet, svet, zaplet, rasplet, pet, devet, deset . O tome bi, kad je u pitanju Šebet, da li ima sufiksa ili ne, ili bilo koji afiks, mogli stručnjaci da kažu poslednju reč, nastavljamo sa paralelama jer je lakše i zabavnije. Ovo latinsko sepet bi možda bilo šepet ali latini nisu imali slovo š pa ostaje stvar nedorečena. U stvari imaju glas š ali i pišu dva slova, troše mastilo bez veze. A tek Schvabe , užas jedan. Očigledno neki drugi svet pa ko im se privoli nadrlja ko Czech, tj Čeh. Slovaci su bolje prošli.**
+**Dakle SEP + ET (sufiks) . Sufiksi su dobar indikator odakle neka reč je došla u nečiji jezik. Sufiks et, na primer, je popularan kod Francuza (galskih petlova) za umanjivanje (deminutivi) pa bude od cigare cigareta ali ima još primena kod glagola pa i šire, na primer kasa - kaseta, star - starleta..a i našim rečima se sviđa takav završetak pa imamo cvet, svet, zaplet, rasplet, pet, devet, deset . O tome bi, kad je u pitanju Šebet, da li ima sufiksa ili ne, ili bilo koji afiks, mogli stručnjaci da kažu poslednju reč, nastavljamo sa paralelama jer je lakše i zabavnije. Ovo latinsko sepet bi možda bilo šepet ali latini nisu imali slovo š pa ostaje stvar nedorečena. U stvari imaju glas š ali i pišu dva slova, troše mastilo bez veze. A tek Schvabe , užas jedan. Očigledno neki drugi svet pa ko im se privoli nadrlja ko Czech, tj Čeh. Slovaci su bolje prošli.**
 
 **Ogradu od pruća, za čuvanje ovce ima svaka kuća ( nekad u vreme kad bio jedan čovek i imao tri sina i još više a i ćerke imao), po ovoj teoriji napredujemo polako. Smešno izgleda povezati latinski jezik sa Šebetom ali u Šebetu se orati još po nekad (orare, oravi...) pa i ne ckivamo scienciju a i dulani (voda, izvorče) nije baš d'eau kolonjska, dulek - tikvica za vodu pa tu je kolnik od coline- uzbrdice... a glavno Ovsinjinac u komšiluk što nekad bio starim Rimljanima officina (jedino mesto u Zaplanju na rimskim kartama). Iz Naisus kad majstor Pera traktor tera preko Brzi Brod i pred Sulfa Balne skrene desno skreće za Zaplanje. P.S. Sulfa balne nije Suva planina već suva česma u N.Banji koja nikad nije bila suva. Ima takvih i reka a sve je to vezano sa sulfurom. Tolko o Rimljanima i Zaplanju.**
