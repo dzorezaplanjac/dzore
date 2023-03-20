@@ -46,7 +46,7 @@ thumbnail: /assets/hedge_sebes.jpg
 
 > **SE (prefix) + PET**
 
-#### **Da je PET koren reči Šebet možemo da tražimo dokaz u reči peteljka (drška ploda, lista) galski-peciolo, velški (irski, korzikanski, latinski, rumunski, francuski, )-petiole; poljski-szypułka, turski-yaprak sapı(lista drška). Značenje reči peteljka je jasno iz uloge koju ima tj. da drži list, plod da se ne odvoje od grančice. Naravno poznata je iz latinskog centri**pet**alna sila koja ima ulogu da sačuva vezu nekog predmeta sa njegovom maticom, centrom. U vezi sa ovim je vredno razmišljanja petao, tie(eng. -mašna), tail(eng. - rep ali gde je tail i = coma po kometi, njenom repu. A šta ima petao što nema kokoška, pa rep naravno. Petao je i pevac zato što peva kao i turski oroz-pevač. Interesantno je da u galskim jezicima petao = galo. Na francuskom je coq.**
+#### **Da je PET koren reči Šebet možemo da tražimo dokaz u reči peteljka (drška ploda, lista) galski-peciolo, velški (irski, korzikanski, latinski, rumunski, francuski, )-petiole; poljski-szypułka, turski-yaprak sapı(lista drška). Značenje reči peteljka je jasno iz uloge koju ima tj. da drži list, plod da se ne odvoje od grančice. Naravno poznata je iz latinskog centri**pet**alna sila koja ima ulogu da sačuva vezu nekog predmeta sa njegovom maticom, centrom. U vezi sa ovim je vredno razmišljanja petao (petal), tie(eng. -mašna), tail(eng. - rep ali gde je tail i = coma po kometi, njenom repu. A šta ima petao što nema kokoška, pa rep naravno. Petao je i pevac zato što peva kao i turski oroz-pevač. Interesantno je da u galskim jezicima petao = galo. Na francuskom je coq.**
 
 ![petao sa repom](/assets/12.jpg "petal")
 
