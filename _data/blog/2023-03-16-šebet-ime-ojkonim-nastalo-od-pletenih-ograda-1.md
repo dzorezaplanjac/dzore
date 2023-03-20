@@ -30,7 +30,7 @@ thumbnail: /assets/hedge_sebes.jpg
 
 ![srb](/assets/srb.png "srbi u poljskoj")
 
- **Ovo pomeranje Srba iz zemlje Pomeranije ka jugu beše čak do Portugalije pa Portugalcima ostade u rečniku sapo od žabe kao i Galima. Ti Srbi po istoričarima su u stvari bili Suebi ([Suevians](https://sr.wikipedia.org/sr-ec/%D0%A1%D0%B2%D0%B5%D0%B2%D0%B8)) ali Švabe ne znaju za reč žabe. Ostaje u igri i varijanta da su Srbi preko žabe u nekoj vezi sa Galima. U svakom slučaju beše puno šetanja po Evropi.  Kod Portugalaca je, da ne bude zabune, slično [sapo](https://pt.wikipedia.org/wiki/Sapo) ( žabe) sa [sebe](https://pt.wikipedia.org/wiki/Sebe) (žbunje za šišanje). Žabe i tarabe kod Srba nemaju baš nikakve veze ali u galiji portugalskoj imaju. Ako Portugalce posmatramo  iz šireg ugla, kao deo familije bliske latinskom jeziku, zavirimo u latinski jezik:**
+ **Ovo pomeranje Srba iz zemlje Pomeranije ka jugozapadu beše čak do Portugalije pa Portugalcima ostade u rečniku sapo od žabe kao i Galima. Ti Srbi po istoričarima su u stvari bili Suebi ([Suevians](https://sr.wikipedia.org/sr-ec/%D0%A1%D0%B2%D0%B5%D0%B2%D0%B8)) ali Švabe ne znaju za reč žabe. Ostaje u igri i varijanta da su Srbi preko žabe u nekoj vezi sa Galima. U svakom slučaju beše puno šetanja po Evropi.  Kod Portugalaca je, da ne bude zabune, slično [sapo](https://pt.wikipedia.org/wiki/Sapo) ( žabe) sa [sebe](https://pt.wikipedia.org/wiki/Sebe) (žbunje za šišanje). Žabe i tarabe kod Srba nemaju baš nikakve veze ali u galiji portugalskoj imaju. Ako Portugalce posmatramo  iz šireg ugla, kao deo familije bliske latinskom jeziku, zavirimo u latinski jezik:**
 
 > **sē/pĭo**,-psi,-ptum,-īre, v. (saepio) –  ograđivati, ograditi, opasati;  s. *urbem muris*– opasujem grad zidinama
 >
