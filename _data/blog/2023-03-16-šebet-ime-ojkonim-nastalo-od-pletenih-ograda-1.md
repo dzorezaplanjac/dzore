@@ -16,7 +16,7 @@ thumbnail: /assets/hedge_sebes.jpg
 
 ![plot](/assets/laid_hedge.png "ograde - plot...")
 
-**Ako krenemo od Albanije pa sve do Baltika na severu nalazimo mnogobrojna mesta sa nazivima Sopot, Sopotnica ili sličnih naziva a isto važi i za Šebet. Sopot, najseverniji, je na obali Baltičkog mora i danas je čuveno poljsko letovalište sa prelepim plažama. O poreklu imena tog mesta se i poljski lingvisti slažu da je nastalo iz staroslovenskih jezika, od zvukova koji se čuju na izvorima rečica. Srpski lingvisti kažu da je koren reči nastao od glagola soptati** 
+**Ako krenemo od Albanije pa sve do Baltika na severu nalazimo mnogobrojna mesta sa nazivima Sopot, Sopotnica ili  naziva sličnih Sopotu i Šebetu. Sopot, najseverniji, je na obali Baltičkog mora i danas je čuveno poljsko letovalište sa prelepim plažama. O poreklu imena tog mesta se i poljski lingvisti slažu da je nastalo iz staroslovenskih jezika, od zvukova koji se čuju na izvorima rečica. Srpski lingvisti kažu da je koren reči nastao od glagola soptati** 
 
 > **( sopće – teško diše, disanje sa propratnim zvucima)**
 
@@ -52,7 +52,7 @@ thumbnail: /assets/hedge_sebes.jpg
 
 ![petal](/assets/14.jpg "petle")
 
-**Da li je Šebet prefiks + koren reči ili koren reči + sufiks jedno je sigurno da se značenje reči kreće u uskom krugu značenja: Držati nešto da se ne raziđe, okupljati : (kaptaže) kombinacije i kompozicije, ansambli, [sympas](/home/nenad/Desktop/_blank) [ΣΥΜΠΑΣ](http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/search.html?dq=&sin=all&lq=%CF%83%CF%8D%CE%BC%CF%80%CE%B1%CF%82), (nekada u grčkom je beta bilo b ali je kasnije postalo v a za b je uzeto mp) zembilji, cegeri i jegreci, korpe, krošnje, koševi i sepeti, obruči, spone, špenadle, španeri, šparanje, šperovanje, šupe, sobe, sheep-ovce i čobani.**
+**Da li je Šebet prefiks + koren reči ili koren reči + sufiks jedno je sigurno da se značenje reči kreće u uskom krugu značenja: Držati nešto da se ne raziđe, okupljati : (kaptaže) kombinacije i kompozicije, ansambli, [sympas](/home/nenad/Desktop/_blank) [ΣΥΜΠΑΣ](http://www.greek-language.gr/greekLang/modern_greek/tools/lexica/search.html?dq=&sin=all&lq=%CF%83%CF%8D%CE%BC%CF%80%CE%B1%CF%82), (nekada u grčkom je beta bilo b ali je kasnije postalo v a za b je uzeto mp) zembilji, cegeri i jegreci, korpe, krošnje, koševi i sepeti, obruči, spone, špenadle, španeri, šparanje, šperovanje, šupe, sobe i sobori, sheep-ovce i čobani.**
 
 **Ovo latinsko sepet bi možda bilo šepet ali latini nisu imali slovo š pa ostaje stvar nedorečena. U stvari imaju glas š ali i pišu dva slova, troše mastilo bez veze. A tek Schvabe , užas jedan. Očigledno neki drugi svet pa ko im se privoli nadrlja ko Czech, tj Čeh. Slovaci su bolje prošli.**
 
