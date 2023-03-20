@@ -42,11 +42,11 @@ thumbnail: /assets/hedge_sebes.jpg
 >
 > **SEP + ET (sufiks) .**
 
- **Sufiksi su dobar indikator odakle neka reč je došla u nečiji jezik. Sufiks et, na primer, je popularan kod Francuza (galskih petlova) za umanjivanje (deminutivi) pa bude od cigare cigareta, kasa - kaseta ali ima još primena kod glagola pa i šire, na primer  star - starleta. I u našim rečima je odomaćen takav završetak pa imamo cvet, svet, zaplet, rasplet, pet, devet, deset . O tome bi, kad je u pitanju Šebet, da li ima sufiksa ili ne, ili bilo koji afiks, mogli stručnjaci da kažu poslednju reč,a mi nastavljamo sa paralelama jer je lakše i zabavnije, nakon osvrta i na mogućnost: SE (prefix) + PET jer je moguće da je sep samo skraćena reč i udaljena od reči koja nosi njeno puno značenje. Puna značenja i zagubljena slova neke reči se otkrivaju pogledom na glagolske konjugacije, padeže pri čemu je genitiv naročito poznat jer se u njemu često javljaju nestala slova**
+ **Sufiksi su dobar indikator odakle neka reč je došla u nečiji jezik. Sufiks et, na primer, je popularan kod Francuza (galskih petlova) za umanjivanje (deminutivi) pa bude od cigare cigareta, kasa - kaseta ali ima još primena kod glagola pa i šire, na primer  star - starleta. I u našim rečima je odomaćen takav završetak pa imamo cvet, svet, zaplet, rasplet, pet, devet, deset . O tome bi, kad je u pitanju Šebet, da li ima sufiksa ili ne, ili bilo koji afiks, mogli stručnjaci da kažu poslednju reč,a mi nastavljamo sa paralelama jer je lakše i zabavnije, nakon osvrta i na mogućnost: SE (prefix) + PET jer je moguće da je SEP samo skraćena reč i udaljena od reči koja nosi njeno puno značenje - sepet. Puna značenja i zagubljena slova neke reči se otkrivaju pogledom na glagolske konjugacije, padeže pri čemu je genitiv naročito poznat jer se u njemu često javljaju nestala slova** 
 
 > **SE (prefix) + PET**
 
- **Da je PET koren reči Šebet možemo da tražimo dokaz u reči peteljka (drška ploda, lista) galski-peciolo, velški (irski, korzikanski, latinski, rumunski, francuski, )-petiole; poljski-**szypułka, turski-yaprak sapı(lista drška)
+ **Da je PET koren reči Šebet možemo da tražimo dokaz u reči peteljka (drška ploda, lista) galski-peciolo, velški (irski, korzikanski, latinski, rumunski, francuski, )-petiole; poljski-**szypułka, turski-yaprak sapı(lista drška). Značenje reči peteljka je jasno iz uloge koju ima tj. da drži list, plod da se ne odvoje od grančice. Naravno poznata je iz latinskog centri**pet**alna sila koja ima ulogu da sačuva vezu nekog predmeta sa njegovom maticom.
 
 
 
