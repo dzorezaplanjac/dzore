@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /pitajošebetu
+path: /pitajosebetu
 date: 2023-03-31T19:00:02.482Z
 title: Pitaj o Šebetu
 metaDescription: Upotreba chatgpt-bota radi informisanja
