@@ -2,7 +2,7 @@
 template: BlogPost
 path: /pitajosebetu
 date: 2023-03-31T19:00:02.482Z
-title: Pitaj o Šebetu
+title: Pitaj o selu Šebet šta želiš!
 metaDescription: Upotreba chatgpt-bota radi informisanja
 thumbnail: /assets/imesebet.png
 ---
