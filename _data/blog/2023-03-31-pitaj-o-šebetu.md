@@ -10,4 +10,14 @@ thumbnail: /assets/imesebet.png
 
 Odgovori o selu Šebet su zavisni od baze podataka koja se polako dopunjuje. AI asistent (Še-bot) radi 0-24h ali je broj odgovora ograničen na mesečnom nivou jer je usluga besplatna.
 
+```
+<script
+  src="https://cdn.jsdelivr.net/gh/yasserelsaid/chatbot@latest/index.min.js"
+  id="o--ebetu-docx-3oy2o9lj1"
+>
+</script>
+```
+
+
+
 ![pitanja](/assets/livechat.jpeg "Postavi pitanje")
