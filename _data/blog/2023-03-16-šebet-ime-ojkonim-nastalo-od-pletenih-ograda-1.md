@@ -2,7 +2,7 @@
 template: BlogPost
 path: /sebet1
 date: 2023-03-16T13:35:14.144Z
-title: Šebet - ime (ojkonim) nastalo od pletenih ograda 1
+title: Šebet - ime (ojkonim) i ograda  (1)
 metaDescription: >-
   Ako krenemo od Albanije pa sve do Baltika na severu nalazimo mnogobrojna mesta
   sa nazivima Sopot, Sopotnica ili sličnih naziva a isto važi i za Šebet. Sopot,
