@@ -10,7 +10,7 @@ metaDescription: >-
   sa prelepim plažama. O poreklu imena tog mesta se ...
 thumbnail: /assets/hedge_sebes.jpg
 ---
-> **Šebet - ime (ojkonim) nastalo od pletenih ograda**
+> **Šebet - ime (ojkonim) i ograda**
 
 **Uprkos tome što je etimologija reči nesigurna jer na osnovu nje se ponekad dolazi do pogrešnih zaključaka pa liči nekome na gledanje u pasulj u puno slučaja njeni zaključci nađu svoju potvrdu u folkloru ili spomenicima iz prošlosti.**
 
