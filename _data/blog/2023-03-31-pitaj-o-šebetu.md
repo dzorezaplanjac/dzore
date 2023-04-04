@@ -8,7 +8,6 @@ thumbnail: /assets/imesebet.png
 ---
 
 Podaci  o selu Šebet se nalaze u bazi podataka koja je sačinjena korišćenjem javno dostupnih izvora tj. ne sadrži podatke o privatnim licima. Baza podataka se osvežava korišćenjem objava u javnim glasilima.
-
 <iframe
 src="https://www.chatbase.co/chatbot-iframe/o--ebetu-docx-3oy2o9lj1"
 width="100%"
