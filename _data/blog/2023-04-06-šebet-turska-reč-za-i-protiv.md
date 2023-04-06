@@ -12,7 +12,7 @@ thumbnail: /assets/sebert.jpeg
 ---
 Razgovor sa veštačkom inteligencijom oko imena sela Šebet,
 
-![š](/assets/coollogo_com-277071519.png "š")
+![š](/assets/sebet.png "š")
 
 Da li turska reč şebet je isto što je i sebet?
 
