@@ -7,7 +7,7 @@ metaDescription: |2
    Место може добити своје име према  карактеристикама, као што су природне карактеристике (планине, реке, итд.), историјски догађаји или локални обичаји али се име може и преузети од  народа који су ту раније живели и говорили другачије. Име може бити тачно преведено али може због сличности у звучности добити и сасвим друго значење.
 thumbnail: /assets/sebert.jpeg
 ---
-Razgovor sa veštačkom inteligencijom oko imena sela Šebet,
+Pomoć veštačke inteligencije (ChatGPT) oko imena sela Šebet.
 
 ![š](/assets/sebet.png "š")
 
