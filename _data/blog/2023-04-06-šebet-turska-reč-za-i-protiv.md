@@ -50,11 +50,9 @@ Druga teorija kaže da ime Šebet može da potiče od srpske reči "šapat", koj
 
 ![a](/assets/ai.png "a")
 
-![a](/assets/ai.png "a")
-
 Reč Şebet ako postoji u turskom jeziku, šta znači - našta se odnosi?
 
-![](blob:https://dzore.netlify.app/5b345195-a255-4b39-bb18-edaef5f27a43)
+
 
 ![a](/assets/ai.png "a")
 
