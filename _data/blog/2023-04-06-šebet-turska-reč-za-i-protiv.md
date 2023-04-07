@@ -14,13 +14,21 @@ Razgovor sa veštačkom inteligencijom oko imena sela Šebet,
 
 ![š](/assets/sebet.png "š")
 
+![s](/assets/ai.png "s")
+
 Da li turska reč şebet je isto što je i sebet?
 
-![](blob:https://dzore.netlify.app/5b345195-a255-4b39-bb18-edaef5f27a43)Da, turska reč "şebet" je isto što i "sebet". Reč se može pisati na dva načina, sa slovom "ş" (š) ili "s", ali ova dva oblika predstavljaju istu reč.
+![a](/assets/ai.png "a")
+
+Da, turska reč "şebet" je isto što i "sebet". Reč se može pisati na dva načina, sa slovom "ş" (š) ili "s", ali ova dva oblika predstavljaju istu reč.
+
+![a](/assets/ai.png "a")
 
 Koji su sinonimi reči sebet u turskom jeziku?
 
-![](blob:https://dzore.netlify.app/5b345195-a255-4b39-bb18-edaef5f27a43)Reč "sebet" u turskom jeziku ima nekoliko sinonima, zavisno od konteksta u kojem se koristi. Neki od sinonima reči "sebet" su:
+![a](/assets/ai.png "a")
+
+Reč "sebet" u turskom jeziku ima nekoliko sinonima, zavisno od konteksta u kojem se koristi. Neki od sinonima reči "sebet" su:
 
 * Çıraklık: Učenje kroz praksu kod majstora ili iskusnog stručnjaka.
 * Sanatkarlık: Zanatstvo, veština izrade rukotvorina ili umetničkih predmeta.
@@ -31,17 +39,29 @@ Koji su sinonimi reči sebet u turskom jeziku?
 
 Ovi sinonimi pokrivaju različite aspekte značenja reči "sebet", što ilustruje kako ova reč može biti fleksibilna i prilagodljiva u različitim situacijama.
 
+![a](/assets/ai.png "a")
+
 Moje selo se zove Šebet ali mi nije jasno od čega je moglo dobiti ime. Da li bi mogao da pomogneš oko nastanka imena?
 
-![](blob:https://dzore.netlify.app/5b345195-a255-4b39-bb18-edaef5f27a43)Postoji nekoliko teorija o tome kako je selo Šebet dobilo ime, ali bez preciznih istorijskih izvora nije moguće sa sigurnošću tvrditi koja je tačna.
+![a](/assets/ai.png "a")
+
+Postoji nekoliko teorija o tome kako je selo Šebet dobilo ime, ali bez preciznih istorijskih izvora nije moguće sa sigurnošću tvrditi koja je tačna.
 
 Jedna teorija vezana za poreklo imena Šebet ukazuje na turski jezik. Naime, u turskom postoji reč "sebet" koja znači "radionica" ili "zajednica". Prema toj teoriji, ime sela bi moglo da potiče od nekadašnje radionice ili zajednice ljudi koji su se bavili nekim zajedničkim poslom ili aktivnostima.
 
 Druga teorija kaže da ime Šebet može da potiče od srpske reči "šapat", koja se koristi za tih, nečujan glas ili za nešto što se priča u tajnosti. Možda su meštani Šebeta u prošlosti bili poznati po tome što su se često sastajali u tajnosti i pričali u šapatu.
 
+![a](/assets/ai.png "a")
+
+![a](/assets/ai.png "a")
+
 Reč Şebet ako postoji u turskom jeziku, šta znači - našta se odnosi?
 
-![](blob:https://dzore.netlify.app/5b345195-a255-4b39-bb18-edaef5f27a43)Reč "Şebet" postoji u turskom jeziku i može se koristiti na nekoliko različitih načina.
+![](blob:https://dzore.netlify.app/5b345195-a255-4b39-bb18-edaef5f27a43)
+
+![a](/assets/ai.png "a")
+
+Reč "Şebet" postoji u turskom jeziku i može se koristiti na nekoliko različitih načina.
 
 Jedno značenje reči "Şebet" je "radionica" ili "zajednica". Na primer, "Halk dansı şebeti" znači "radionica narodnih igara", a "Mahalledeki dernek şebeti" znači "zajednica u kvartu".
 
@@ -49,9 +69,13 @@ Drugo značenje reči "Şebet" vezano je za religiju i odnosi se na verske zajed
 
 Ukratko, reč "Şebet" u turskom jeziku može imati značenje "radionica" ili "zajednica", a takođe se može koristiti u religioznom kontekstu kako bi označila versku zajednicu koja se redovno sastaje da bi obavljala molitve ili druge verske aktivnosti.
 
+![a](/assets/ai.png "a")
+
 Možeš li da mi navedeš nekoliko turskih rečenica gde se koristi reč "sebet" ali da budu prevedene na srpski jezik i da nemaju veze sa religijom? Ako je moguće da bude 10 rečenica.
 
-![](blob:https://dzore.netlify.app/5b345195-a255-4b39-bb18-edaef5f27a43)Naravno, evo deset primera turskih rečenica u kojima se koristi reč "sebet", a koje nemaju veze sa religijom, zajedno sa njihovim prevodima na srpski jezik:
+![a](/assets/ai.png "a")
+
+Naravno, evo deset primera turskih rečenica u kojima se koristi reč "sebet", a koje nemaju veze sa religijom, zajedno sa njihovim prevodima na srpski jezik:
 
 1. Geçen hafta arkadaşlarla birlikte örgü sebeti yaptık.
 
@@ -93,10 +117,12 @@ Možeš li da mi navedeš nekoliko turskih rečenica gde se koristi reč "sebet"
 
 * U ovoj knjizi se obrađuju važni faktori koji su uticali na život pisca.
 
+![a](/assets/ai.png "a")
+
 Kako se izgovara turska reč şebet?
 
-![](blob:https://dzore.netlify.app/5b345195-a255-4b39-bb18-edaef5f27a43)Turska reč "şebet" se izgovara "šebet". Slovo "ş" (sa čakmakom) u turskom predstavlja glas "š" koji se izgovara tako što usne blago zaobljeni i ispuštaju vazduh, dok se vrh jezika postavlja iza donjih zuba. "e" se izgovara kao "e" u engleskoj reči "bed", a "b" se izgovara kao u srpskom jeziku. "t" se izgovara kao u srpskom jeziku, ali na kraju reči se ne izgovara jako kao u srpskom, već više tiho, kao da se skraćuje pri izgovoru.
+![a](/assets/ai.png "a")
+
+Turska reč "şebet" se izgovara "šebet". Slovo "ş" (sa čakmakom) u turskom predstavlja glas "š" koji se izgovara tako što usne blago zaobljeni i ispuštaju vazduh, dok se vrh jezika postavlja iza donjih zuba. "e" se izgovara kao "e" u engleskoj reči "bed", a "b" se izgovara kao u srpskom jeziku. "t" se izgovara kao u srpskom jeziku, ali na kraju reči se ne izgovara jako kao u srpskom, već više tiho, kao da se skraćuje pri izgovoru.
 
 Reč "şebet" se koristi se u turskom jeziku za označavanje radionice, zajednice ili udruženja ljudi koji rade zajedno na nekom poslu. Kao što sam ranije naveo, postoji teorija da ime srpskog sela Šebet potiče od turske reči "sebet" ili "şebet".
-
-Да ли турска реч şебет је исто што је и себет?
