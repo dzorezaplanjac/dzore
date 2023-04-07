@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /turskisebet
+path: /turskisebet3
 date: 2023-04-06T18:45:46.551Z
 title: ' Шебет турска реч - за и против'
 metaDescription: |2
