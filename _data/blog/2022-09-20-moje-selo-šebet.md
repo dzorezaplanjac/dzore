@@ -94,15 +94,6 @@ To су:
 
 ### ИЗВОР: Према књизи Марије Антић „Антропогеографска проучавања насеља Заплања“ на основу испитивања тог подручје од 2005. до 2010. године, едиција Корени - Службени гласник Београд.
 
-<https://www.chatbase.co/chatbot-iframe/3Vi2pqUMtWMfMDWWFw9Qw>
 
 
 
-```
-<iframe
-src="https://www.chatbase.co/chatbot-iframe/3Vi2pqUMtWMfMDWWFw9Qw"
-width="100%"
-height="700"
-frameborder="0"
-></iframe>
-```
