@@ -96,6 +96,8 @@ To су:
 
 <https://www.chatbase.co/chatbot-iframe/3Vi2pqUMtWMfMDWWFw9Qw>
 
+
+
 ```
 <iframe
 src="https://www.chatbase.co/chatbot-iframe/3Vi2pqUMtWMfMDWWFw9Qw"
@@ -103,21 +105,4 @@ width="100%"
 height="700"
 frameborder="0"
 ></iframe>
-```
-
-[](https://www.chatbase.co/chatbot-iframe/3Vi2pqUMtWMfMDWWFw9Qw)
-
-
-
-```
-<script>
-  window.chatbaseConfig = {
-    chatbotId: "3Vi2pqUMtWMfMDWWFw9Qw",
-  }
-</script>
-<script
-  src="https://www.chatbase.co/embed.min.js"
-  id="3Vi2pqUMtWMfMDWWFw9Qw"
-  defer>
-</script>
 ```
