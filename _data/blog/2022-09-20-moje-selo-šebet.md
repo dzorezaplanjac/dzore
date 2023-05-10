@@ -94,9 +94,3 @@ To су:
 ### ИЗВОР: Према књизи Марије Антић „Антропогеографска проучавања насеља Заплања“ на основу испитивања тог подручје од 2005. до 2010. године, едиција Корени - Службени гласник Београд.
 
 ![šebet](/assets/šebet-moj.jpg "Šebet")
-
-<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-30c9de09-e054-495b-bf6d-5df976825914"></div>
-
-<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
-<div class="elfsight-app-b0cfab65-9a6d-46d5-b97e-c79fc912fe83"></div>
