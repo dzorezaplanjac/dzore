@@ -97,3 +97,6 @@ To су:
 
 <script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
 <div class="elfsight-app-30c9de09-e054-495b-bf6d-5df976825914"></div>
+
+<script src="https://static.elfsight.com/platform/platform.js" data-use-service-core defer></script>
+<div class="elfsight-app-b0cfab65-9a6d-46d5-b97e-c79fc912fe83"></div>
