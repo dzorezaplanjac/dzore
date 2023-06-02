@@ -6,4 +6,6 @@ title: Pitaj o Šebetu
 metaDescription: Še-bot vam odgovara na pitanja o selu Šebet .
 thumbnail: /assets/livechat.jpeg
 ---
+![AI](/assets/ai.png "AI")
+
 [PITAJ O ŠEBETU](https://openchat.so/chat/X5Fxo1vvqNWMHP0Etnvb)
