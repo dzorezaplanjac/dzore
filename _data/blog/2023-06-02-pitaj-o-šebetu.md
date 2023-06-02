@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /pitaj_o_sebetu
+path: /pitajosebetu
 date: 2023-06-02T07:26:12.697Z
 title: Pitaj o Šebetu
 metaDescription: >-
