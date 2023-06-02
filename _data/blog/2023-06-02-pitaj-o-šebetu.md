@@ -12,14 +12,7 @@ thumbnail: /assets/livechat.jpeg
 
 
 
-<script src="https://openchat.so/chat.js"></script>
 
-<script>
-    var chatConfig = {
-    token: "X5Fxo1vvqNWMHP0Etnvb",
-    };
-    initializeChatWidget(chatConfig);
-</script>[](https://openchat.so/chat/X5Fxo1vvqNWMHP0Etnvb)
 
 
 
