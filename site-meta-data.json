@@ -4,6 +4,6 @@
   "description": "(Vesti iz Šebet najnovije i ostale)",
   "home": {
     "title": "Koje ima novo po Šebet!",
-    "description": "(iz pouzdani izvor saznajemo)"
+    "description": "(iz pouzdani izvor saznajemo)\n<script src=\"https://openchat.so/chat.js\"></script>\n<script>\n    var chatConfig = {\n    token: \"X5Fxo1vvqNWMHP0Etnvb\",\n    };\n    initializeChatWidget(chatConfig);\n</script>\n                             "
   }
 }
