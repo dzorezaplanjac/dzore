@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: /Šebečka AI likovna kolonija
+path: /Šebečka AI likovna kolonija_1 deo
 date: 2023-06-06T13:34:21.366Z
 title: Šebečka AI likovna kolonija
 metaDescription: Inspiracija za slike nađena u motivima kuća i prirode sela Šebet.
