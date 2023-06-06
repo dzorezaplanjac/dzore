@@ -6,6 +6,8 @@ title: Šebečka likovna kolonija - četvrti deo
 metaDescription: Slike su nastale na osnovu fotografija snimljenih u Zaplanju.
 thumbnail: /assets/81.jpg
 ---
+![81](/assets/81.jpg "81")
+
 ![82](/assets/82.jpg "82")
 
 ![83](/assets/83.jpg "83")
