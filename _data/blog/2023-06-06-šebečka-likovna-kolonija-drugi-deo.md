@@ -8,6 +8,8 @@ metaDescription: >-
   delo Aleksandre Zlatković.
 thumbnail: /assets/pevac2.jpg
 ---
+![pevac2](/assets/pevac2.jpg "pevac2")
+
 ![kladenac1](/assets/kladenac1.jpg "kladenac1")
 
 ![kladenac2](/assets/kladenac2.jpg "kladenac2")
