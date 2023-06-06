@@ -6,7 +6,7 @@ title: Šebečka likovna kolonija - drugi deo
 metaDescription: >-
   Slike su poreklom iz Šebeta a zatim umetnički obrađene, fotografija pevca je
   delo Aleksandre Zlatković.
-thumbnail: /assets/kladenac1.jpg
+thumbnail: /assets/pevac2.jpg
 ---
 ![kladenac1](/assets/kladenac1.jpg "kladenac1")
 
