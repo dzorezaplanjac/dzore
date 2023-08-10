@@ -4,7 +4,7 @@ path: /sebeckalikovnakolonija_prvideo
 date: 2023-06-06T13:34:21.366Z
 title: Šebečka AI likovna kolonija
 metaDescription: Inspiracija za slike nađena u motivima kuća i prirode sela Šebet.
-thumbnail: /assets/abc-zadruga.jpg
+thumbnail: /assets/joca2a.jpg
 ---
 ![joca1](/assets/joca1.jpg "joca1")
 
