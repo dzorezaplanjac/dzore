@@ -6,6 +6,8 @@ title: ' Zaplanjske etno lepote'
 metaDescription: Etno motivi iz Zaplanja
 thumbnail: /assets/3oktobar2022.jpg
 ---
+![](/assets/3oktobar2022.jpg)
+
 ![](/assets/6oktobar2022.jpg)
 
 ![](/assets/7oktobar2022.jpg)
