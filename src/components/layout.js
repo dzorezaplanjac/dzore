@@ -25,7 +25,7 @@ export default ({ children }) => {
       </header>
       {children}
       <footer className="site-footer">
-        <p>&copy; {new Date().getFullYear()}  <span role="img" aria-label="love">❤️</span> od <a href="https://zaplanje101.netlify.app">Zaplanje 101</a></p>
+        <p>&copy; {new Date().getFullYear()}  <span role="img" aria-label="love">❤️</span> od <a href="https://zaplanje101.netlify.app"> Džore 101</a></p>
       </footer>
     </div>
   )
