@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /petrovdan_veliki_krcimir
-date: 2023-08-10T11:34:21.596Z
+date: 2023-07-12T11:34:21.596Z
 title: 'PETROVDAN, VELIKI KRČIMIR 12.07.2023'
 metaDescription: >-
   PETROVDAN, VELIKI KRČIMIR 12.07.2023.
