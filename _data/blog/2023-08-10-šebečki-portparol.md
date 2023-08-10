@@ -1,7 +1,7 @@
 ---
 template: BlogPost
 path: /ai_schebet
-date: 2023-08-10T12:21:52.615Z
+date: 2022-09-01T12:21:52.615Z
 title: Šebečki portparol
 metaDescription: >-
   Ako želite da isprobate AI možete to da uradite i na primeru sela Šebet.
