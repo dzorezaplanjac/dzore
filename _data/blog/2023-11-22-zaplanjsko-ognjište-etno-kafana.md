@@ -5,9 +5,8 @@ date: 2023-11-22T18:14:40.333Z
 title: Zaplanjsko ognjište - etno kafana
 metaDescription: |-
   Etno kafana
-      "ZAPLANJSKO
-          "OGNJIŠTE"
-       Dali ste skoro posetili naše predivno Zaplanje? Ako niste moja preporuka Vam je da to obavezno učinite
+      "ZAPLANJSKO OGNJIŠTE"
+       Da li ste skoro posetili naše predivno Zaplanje? Ako niste, moja preporuka Vam je da to obavezno učinite !
 thumbnail: /assets/zapl.ognjište.jpg
 ---
 
