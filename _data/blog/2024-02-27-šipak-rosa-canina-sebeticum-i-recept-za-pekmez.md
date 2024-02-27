@@ -1,6 +1,6 @@
 ---
 template: BlogPost
-path: / Šipak
+path: /Šipak
 date: 2024-02-27T16:18:47.154Z
 title: Šipak - Rosa canina sebeticum i recept za pekmez !!!
 metaDescription: >-
