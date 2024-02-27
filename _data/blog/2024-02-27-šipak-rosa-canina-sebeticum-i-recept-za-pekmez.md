@@ -6,7 +6,7 @@ title: Šipak - Rosa canina sebeticum i recept za pekmez !!!
 metaDescription: >-
   Ko voli pune tegle pekmeza od šipaka izvolte u selo Šebet da ih besplatno
   nabere
-thumbnail: ''
+thumbnail: /assets/šipak.jpg
 ---
 ![Šipak](/assets/šipak.jpg "Rosa canina sebeticum")
 
